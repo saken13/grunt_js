@@ -1,0 +1,11 @@
+/* This is an awesome style sheet */
+/* No it's not, but it's OK to use for this tutorial test. */
+body {
+    border: 1px solid #ff0000;
+    background: #ccc;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
